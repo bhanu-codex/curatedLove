@@ -11,7 +11,7 @@ Direct AI chats can be overwhelming. curatedLove filters the noise to provide:
 
 🌟 The Experience: Memory-making moments over material things.
 
-📸 Preview
+📸 Preview: 
 https://github.com/user-attachments/assets/7d3fce8a-de7f-4981-9b4c-e96e6a302aa1
 
 🛠️ Built With
