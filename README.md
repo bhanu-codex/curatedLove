@@ -1,5 +1,5 @@
-💝 curatedLove
-The AI-Powered Boutique Concierge
+💝 curatedLove: 
+An AI-Powered Boutique Concierge
 
 curatedLove is a high-end personal gifting assistant designed to bridge the gap between generic suggestions and thoughtful, bespoke gifting experiences.
 By analyzing the recipient's age, gender, and emotional depth of your relationship, it generates three distinct gifting strategies for any occasion.
